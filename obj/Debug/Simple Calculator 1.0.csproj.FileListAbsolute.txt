@@ -1,0 +1,22 @@
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\bin\Debug\Simple Calculator 1.0.exe.config
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\bin\Debug\Simple Calculator 1.0.exe
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\bin\Debug\Simple Calculator 1.0.pdb
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\obj\Debug\Simple Calculator 1.0.csprojAssemblyReference.cache
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\obj\Debug\Simple_Calculator_1._0.Form1.resources
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\obj\Debug\Simple_Calculator_1._0.Properties.Resources.resources
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\obj\Debug\Simple Calculator 1.0.csproj.GenerateResource.cache
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\obj\Debug\Simple Calculator 1.0.csproj.CopyComplete
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\obj\Debug\Simple Calculator 1.0.exe
+C:\Users\lenovo 330\source\repos\Simple Calculator 1.0\Simple Calculator 1.0\obj\Debug\Simple Calculator 1.0.pdb
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\bin\Debug\Simple Calculator 1.0.exe.config
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\bin\Debug\Simple Calculator 1.0.exe
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\bin\Debug\Simple Calculator 1.0.pdb
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\obj\Debug\Simple Calculator 1.0.csprojAssemblyReference.cache
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\obj\Debug\Simple_Calculator_1._0.Form1.resources
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\obj\Debug\Simple_Calculator_1._0.Properties.Resources.resources
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\obj\Debug\Simple Calculator 1.0.csproj.GenerateResource.cache
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\obj\Debug\Simple Calculator 1.0.csproj.CopyComplete
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\obj\Debug\Simple Calculator 1.0.exe
+C:\Users\NXsi_qew2\Desktop\Simple-Calc-1.0-master\Simple Calculator 1.0\obj\Debug\Simple Calculator 1.0.pdb
